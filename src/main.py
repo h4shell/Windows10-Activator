@@ -12,5 +12,3 @@ def crack():
     os.system("slmgr.vbs /ato")
     print("Attivazione avvenuta con successo")
 crack()
-
-#Tutti i diritti riservati a h4shell
